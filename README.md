@@ -5,7 +5,7 @@
 <div align="center">
 
   #### Desafio do curso Desenvolvedor Web Completo.
-  O desafio proposto no curso era bem simples, então eu decidi implementar um design mais atual com tema dark e layoult responsivo. 
+  O desafio proposto no curso era bem simples, então eu decidi implementar um design mais atual com tema dark e layoult responsivo. </br>
   Para o layout me inspirei no site de notícias G1 e as notícias são do site TecMundo.
 
   ![](https://img.shields.io/badge/autor-Michael%20Ribeiro-brightgreen)
