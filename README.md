@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="images/logo1.png" height="100px" alt="Be the hero"/>
+  <img src="images/logo1.png" height="100px" alt="Tecnoblog"/>
 </div>
 
 <div align="center">
 
-  #### Aplicação completa para cadastrar desenvolvedores na plataforma web e localizálos no aoo atravpes do mapa de geolocalização.
-  aqui além de ultizarmos o axios para conectar o front á nossa api, uzaos tmb para conecar nossa api à api do Github e assim alimentar o nosso banco com informações como nome, bio e avatar dos devs cadastrados
+  #### Desafio do curso Desenvolvedor Web Completo.
+  o desafio proposto no curso era bem simples, 
 
 
-  ![](https://img.shields.io/badge/autor-Maykon%20Sousa-brightgreen)
-  ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
-  ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
-  ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
+  ![](https://img.shields.io/badge/autor-Michael%20Ribeiro-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-HTML5-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-CSS-brightgreen)
 </div> 
 
 ## Recursos
