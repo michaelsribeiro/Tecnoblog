@@ -5,7 +5,7 @@
 <div align="center">
 
   #### Desafio do curso Desenvolvedor Web Completo.
-  o desafio proposto no curso era bem simples, 
+  O desafio proposto no curso era bem simples, então eu decidi implementar um design mais atual com tema dark, responsividade. Para o layout me inspirei na página G1.
 
 
   ![](https://img.shields.io/badge/autor-Michael%20Ribeiro-brightgreen)
@@ -15,7 +15,7 @@
 
 ## Recursos
 
-- **HTML5** — Linguagem de Marcação utilizada para estruturar a página web
+- **HTML 5** — Linguagem de Marcação utilizada para estruturar a página web
 - **CSS** — Folha de estilo utilizada para definir a aparência.
 
 ## Iniciando
