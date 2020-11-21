@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./tecnoblog/images/logo1.png" height="100px" alt="Tecnoblog"/>
+  <img src="./tecnoblog/images/logo-github.png" height="150px" alt="Tecnoblog"/>
 </div>
 
 <div align="center">
